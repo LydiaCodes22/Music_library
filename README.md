@@ -19,8 +19,8 @@ You may use HTTP request methods to interact with the database as follows;
 - JavaScript
 - MySQL
 - express.js
-- node.js
 - Postman
+- node.js
 - Swagger
 - Docker
 - Chai, Mocha, SuperTest

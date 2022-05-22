@@ -1,9 +1,8 @@
-// src/app.js
 const express = require('express');
+const cors = require('cors');
 const artistRouter = require('./routes/artist');
 
 const app = express();
-const cors = require('cors');
 
 app.use(cors());
 

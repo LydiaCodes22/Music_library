@@ -1,5 +1,3 @@
-// src/controllers/artist.js
-// const db = require('../services/db');
 const getDb = require('../services/db');
 
 exports.create = async (req, res) => {
