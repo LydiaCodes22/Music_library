@@ -1,4 +1,8 @@
 
+
+//What should the .env file contain? How is the project setup? What scripts do I need to run?
+
+
 ## Introduction
 
 This is a simple API allowing allowing the user to perform CRUD operations on a music library database.
